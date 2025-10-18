@@ -12,3 +12,6 @@ A number is called a perfect number if it is equal to the sum of its proper divi
 Example: 6 → divisors: 1, 2, 3 → sum = 6
 To find factors of a number n, iterate from 1 to √n and check n % i == 0. Store both i and n/i.
 Decimal to binary conversion: divide the number by 2 repeatedly, store remainders, and reverse them.
+
+
+Use Math Squrt funtion most
