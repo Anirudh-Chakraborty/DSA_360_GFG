@@ -1,0 +1,156 @@
+---
+
+### **Array**
+
+* Two Pointers
+* Sliding Window
+* Kadane’s Algorithm
+* Prefix Sum
+* Binary Search on Answer
+* Sorting (Merge, Quick, Counting, etc.)
+* Dutch National Flag Algorithm
+* Moore’s Voting Algorithm
+
+---
+
+### **String**
+
+* KMP (Knuth–Morris–Pratt)
+* Rabin–Karp
+* Z Algorithm
+* Manacher’s Algorithm
+* Sliding Window for Substrings
+* Trie (Prefix Tree)
+* Aho–Corasick Algorithm
+
+---
+
+### **Linked List**
+
+* Floyd’s Cycle Detection (Tortoise and Hare)
+* Fast–Slow Pointer Techniques
+* Merge Two Sorted Lists
+* Reverse Linked List
+* Detect and Remove Cycle
+
+---
+
+### **Stack / Queue**
+
+* Monotonic Stack / Queue
+* Next Greater Element
+* Infix–Postfix–Prefix Conversion
+* Evaluate Expression
+* Sliding Window Maximum
+
+---
+
+### **Recursion / Backtracking**
+
+* Permutations / Combinations Generation
+* Subset Generation
+* N-Queens Problem
+* Sudoku Solver
+* Rat in a Maze / Pathfinding
+
+---
+
+### **Tree / Binary Search Tree (BST)**
+
+* Tree Traversals (Inorder, Preorder, Postorder)
+* Level Order Traversal (BFS)
+* Lowest Common Ancestor (LCA)
+* Binary Tree Diameter
+* Validate BST
+* Segment Tree Basics
+* Fenwick Tree (Binary Indexed Tree)
+
+---
+
+### **Graph**
+
+* BFS (Breadth First Search)
+* DFS (Depth First Search)
+* Dijkstra’s Algorithm
+* Bellman–Ford Algorithm
+* Floyd–Warshall Algorithm
+* Topological Sort (Kahn’s + DFS)
+* Union–Find / Disjoint Set (DSU)
+* Kruskal’s Algorithm
+* Prim’s Algorithm
+* Tarjan’s Algorithm (SCC / Bridges)
+
+---
+
+### **Dynamic Programming (DP)**
+
+* Fibonacci / Climbing Stairs
+* 0/1 Knapsack
+* Longest Common Subsequence (LCS)
+* Longest Increasing Subsequence (LIS)
+* Matrix Chain Multiplication
+* Coin Change
+* Subset Sum / Partition Equal Subset
+* Edit Distance
+* DP on Grids (Unique Paths, Min Path Sum)
+* DP on Trees
+
+---
+
+### **Greedy**
+
+* Interval Scheduling
+* Activity Selection
+* Huffman Coding
+* Job Sequencing
+* Fractional Knapsack
+* Gas Station Problem
+* Jump Game
+
+---
+
+### **Bit Manipulation**
+
+* Count Set Bits (Brian Kernighan’s Algorithm)
+* Single Number (XOR)
+* Power of Two Check
+* Subset Generation using Bitmask
+* Bitwise DP Problems
+
+---
+
+### **Heap / Priority Queue**
+
+* Kth Largest / Smallest Element
+* Top K Frequent Elements
+* Merge K Sorted Lists
+* Median in Stream
+* Heap Sort
+
+---
+
+### **Math / Number Theory**
+
+* Euclidean Algorithm (GCD / LCM)
+* Modular Exponentiation
+* Sieve of Eratosthenes
+* Prime Factorization
+* Modular Inverse
+* Fast Power (Binary Exponentiation)
+
+---
+
+### **Advanced Topics**
+
+* Segment Tree (Range Query + Lazy Propagation)
+* Fenwick Tree (BIT)
+* Trie (Word Dictionary / Prefix Search)
+* Suffix Array / Suffix Tree
+* Rabin–Karp Rolling Hash
+* Disjoint Set Union (Union by Rank + Path Compression)
+* Kahn’s Algorithm (Topological Sort)
+* Dijkstra / Bellman–Ford / Floyd–Warshall (Weighted Graphs)
+* Edmonds–Karp / Dinic (Max Flow)
+* Tarjan’s Algorithm (SCC / Bridges)
+
+---
